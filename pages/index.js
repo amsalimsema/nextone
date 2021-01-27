@@ -5,7 +5,7 @@ const Index = () => (
   <>
     <Layout title='Home'>
       <p>Welcome to the Home page!</p>
-      <Image src='/me.png' alt='me' width='164' height='84' />
+      <Image src='/test.png' alt='me' width='600' height='300' />
     </Layout>
   </>
 );
